@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $black;
+	background: $iron;
   font: 18px/1.4 $helvetica;
-  color: $white;
+  color: ($paleSky, 15);
 }
 
 .container {
