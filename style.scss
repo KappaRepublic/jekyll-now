@@ -20,7 +20,7 @@ html {
 body {
 	background: $iron;
   font: 18px/1.4 $helvetica;
-  color: ($paleSky, 15);
+  color: darken($paleSky, 15);
 }
 
 .container {
