@@ -4,4 +4,8 @@ title: My Projects
 permalink: /projects/
 ---
 
-### UNDER CONSTRUCTION
+### GitHub Projects
+
+Honour's Project
+[GitHub Page](https://kapparepublic.github.io/Honours/)
+[GitHub Repository](https://github.com/KappaRepublic/Honours)
